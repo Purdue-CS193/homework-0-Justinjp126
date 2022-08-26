@@ -2,6 +2,6 @@
 
 ## My Favorite Parts of CS
 
-- Making websites
+- Making websites and web development in general
 - Going through the process of planning, coding, and maintaining projects
-- Learning new technologies and methods
+- Learning new languages and methods to create projects
