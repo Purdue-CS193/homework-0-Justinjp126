@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+### Justin Puthenpurayil's First CS193 Homework
+
+## My Favorite Parts of CS
+
+- Making websites
+- Going through the process of planning, coding, and maintaining projects
+- Learning new technologies and methods
+
+Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,7 +20,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
